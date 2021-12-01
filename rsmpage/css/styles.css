@@ -26,7 +26,7 @@ Colors:
 - Backgrounds - light gray #f9fafe
 - Headings text - black #191e47
 - Body text - dark gray #6c717b
-- Buttons, icons - blue #4555d2
+- Buttons, - blue #4555d2
 - Buttons, icons, bullets - red #cc2973
 ******************************************/
 
@@ -1651,7 +1651,7 @@ footer{
     height: 40px;
     width: 40px;
     margin: 0 8px;
-    border-radius: 50%;
+    border-radius: 0px;
     text-align: center;
     line-height: 40px;
     color: #fff;
